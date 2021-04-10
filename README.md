@@ -7,5 +7,5 @@ After installation, you should be able to do:
 
 ```
 >>> import gym
->>> env = gym.make('gym-hungrygeese:hungrygeese-v1')
+>>> env = gym.make('gym_hungrygeese:hungrygeese-v1')
 ```
